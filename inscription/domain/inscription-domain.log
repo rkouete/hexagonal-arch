@@ -1,0 +1,8 @@
+2024-03-27 23:44:02,432 DEBUG c.t.d.s.EnrollmentCoordinatorImpl [main] Start enrolling student Doe John in 6ème 1 class
+2024-03-27 23:46:46,130 DEBUG c.t.d.s.EnrollmentCoordinatorImpl [main] Start enrolling student Doe John in 6ème 1 class
+2024-03-27 23:46:46,132 INFO c.t.d.s.EnrollmentCoordinatorImpl [main] Doe John enrolled successfully!!
+2024-03-28 00:08:24,003 DEBUG c.t.d.s.EnrollmentCoordinatorImpl [main] Start enrolling student Doe John in 6ème 1 class
+2024-03-28 00:08:24,006 INFO c.t.d.s.EnrollmentCoordinatorImpl [main] Doe John enrolled successfully!!
+2024-03-28 00:38:46,016 DEBUG c.t.d.s.EnrollmentCoordinatorImpl [main] Start enrolling student Doe John in 6ème 1 class
+2024-03-28 00:39:47,754 DEBUG c.t.d.s.EnrollmentCoordinatorImpl [main] Start enrolling student Doe John in 6ème 1 class
+2024-03-28 00:39:47,768 INFO c.t.d.s.EnrollmentCoordinatorImpl [main] Doe John enrolled successfully!!
